@@ -2,59 +2,9 @@
 
 ## Overview
 
-This repository contains solutions for **Task 03: Loops, Patterns & Basic Automation** implemented in both **Python** and **C Programming**.
+This repository contains solutions for **Task 03: Loops, Patterns & Basic Automation** implemented in Python.
 
-The purpose of this task is to strengthen understanding of:
-
-* Loops and Iteration
-* Pattern Printing
-* Conditional Statements
-* String Manipulation
-* Basic Authentication Logic
-* Problem Solving
-* Basic Automation Concepts
-
----
-
-# Folder Structure
-
-```text
-Programming_Task_03_Bhakti
-│
-├── Python Files
-│   ├── multiplication_table.py
-│   ├── number_analysis.py
-│   ├── patterns.py
-│   ├── password_attempt.py
-│   ├── username_generator.py
-│   └── guessing_game.py
-│
-├── C Files
-│   ├── multiplication_table.c
-│   ├── number_analysis.c
-│   ├── patterns.c
-│   ├── password_attempt.c
-│   └── username_generator.c
-│
-├── Screenshots_Programming_03
-│   │
-│   ├── Python_Screenshots
-│   │   ├── multiplication_table_py.png
-│   │   ├── number_analysis_py.png
-│   │   ├── patterns_py.png
-│   │   ├── password_attempt_py.png
-│   │   ├── username_generator_py.png
-│   │   └── guessing_game_py.png
-│   │
-│   └── C_Screenshots
-│       ├── multiplication_table_c.png
-│       ├── number_analysis_c.png
-│       ├── patterns_c.png
-│       ├── password_attempt_c.png
-│       └── username_generator_c.png
-│
-└── README.md
-```
+The objective of this task is to improve logical thinking, problem-solving abilities, and understanding of loops, pattern printing, string manipulation, conditional statements, and basic automation concepts.
 
 ---
 
@@ -64,7 +14,7 @@ Programming_Task_03_Bhakti
 
 ### Description
 
-Accepts a number from the user and displays its multiplication table from 1 to 10 using a for loop.
+This program accepts a number from the user and displays its multiplication table from 1 to 10 using a for loop.
 
 ### Concepts Used
 
@@ -82,17 +32,18 @@ Accepts a number from the user and displays its multiplication table from 1 to 1
 
 ### Description
 
-Accepts a number N and calculates:
+This program accepts a number N from the user and calculates:
 
 * Sum of numbers from 1 to N
-* Total even numbers
-* Total odd numbers
+* Count of even numbers
+* Count of odd numbers
 
 ### Concepts Used
 
 * Loops
 * Conditional Statements
 * Counters
+* Arithmetic Operations
 
 ### Output
 
@@ -104,12 +55,44 @@ Accepts a number N and calculates:
 
 ### Description
 
-Prints different star and number patterns using nested loops.
+This program prints different star and number patterns using nested loops.
+
+### Patterns Included
+
+#### Pattern 1
+
+```text
+*
+**
+***
+****
+*****
+```
+
+#### Pattern 2
+
+```text
+*****
+****
+***
+**
+*
+```
+
+#### Pattern 3
+
+```text
+1
+12
+123
+1234
+12345
+```
 
 ### Concepts Used
 
 * Nested Loops
-* Pattern Problems
+* Pattern Printing
 * Iteration
 
 ### Output
@@ -122,13 +105,13 @@ Prints different star and number patterns using nested loops.
 
 ### Description
 
-Simulates a simple login system with a predefined password and maximum three login attempts.
+This program simulates a simple login system by storing a predefined password and allowing a maximum of three login attempts.
 
 ### Concepts Used
 
 * while Loop
 * Conditional Statements
-* Authentication Logic
+* Basic Authentication Logic
 
 ### Output
 
@@ -140,7 +123,7 @@ Simulates a simple login system with a predefined password and maximum three log
 
 ### Description
 
-Generates multiple username suggestions using first name, last name and birth year.
+This program generates multiple username suggestions using the user's first name, last name, and birth year.
 
 ### Concepts Used
 
@@ -158,56 +141,18 @@ Generates multiple username suggestions using first name, last name and birth ye
 
 ### Description
 
-Generates a random number between 1 and 50. The user continues guessing until the correct number is found.
+This program generates a random number between 1 and 50. The user continues guessing until the correct number is found, and the total number of attempts is displayed.
 
 ### Concepts Used
 
 * Random Module
 * while Loop
 * Conditional Statements
+* User Input
 
 ### Output
 
 ![Guessing Game](Programming_Task_03_Bhakti_Parhad/Screenshots_Programming_03/Python_Screenshots/guessing_game_py.png)
-
----
-
-# C Programs
-
-The following programs were also implemented in C Programming:
-
-* Multiplication Table Generator
-* Number Analysis Tool
-* Pattern Printing Challenge
-* Password Attempt Simulator
-* Username Generator
-* Guessing Game
-
-### Sample C Output Screenshots
-
-#### Multiplication Table
-
-![Multiplication Table C](Programming_Task_03_Bhakti_Parhad/Screenshots_Programming_03/C_Screenshots/multiplication_table_c.png)
-
-#### Number Analysis
-
-![Number Analysis C](Programming_Task_03_Bhakti_Parhad/Screenshots_Programming_03/C_Screenshots/number_analysis_c.png)
-
-#### Pattern Printing
-
-![Pattern Printing C](Programming_Task_03_Bhakti_Parhad/Screenshots_Programming_03/C_Screenshots/patterns_c.png)
-
-#### Password Attempt Simulator
-
-![Password Attempt C](Programming_Task_03_Bhakti_Parhad/Screenshots_Programming_03/C_Screenshots/password_attempt_c.png)
-
-#### Username Generator
-
-![Username Generator C](Programming_Task_03_Bhakti_Parhad/Screenshots_Programming_03/C_Screenshots/username_generator_c.png)
-
-#### Username Generator
-
-![Guessing Game C](Programming_Task_03_Bhakti_Parhad/Screenshots_Programming_03/C_Screenshots/guessing_game_c.png)
 
 ---
 
