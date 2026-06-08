@@ -1,0 +1,10 @@
+first = input("First Name: ").lower()
+last = input("Last Name: ").lower()
+year = input("Birth Year: ")
+
+print("\nUsername Suggestions:")
+print(first + last + year)
+print(first[0] + "." + last + year[-2:])
+print(last + "_" + first)
+print(first + year)
+print(last + year[-2:])
