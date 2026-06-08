@@ -74,7 +74,7 @@ Accepts a number from the user and displays its multiplication table from 1 to 1
 
 ### Output
 
-![Multiplication Table](Screenshots_Programming_03/Python_Screenshots/multiplication_table_py.png)
+![Multiplication Table](Programming_Task_03_Bhakti_Parhad/Screenshots_Programming_03/Python_Screenshots/multiplication_table_py.png)
 
 ---
 
