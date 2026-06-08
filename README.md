@@ -96,7 +96,7 @@ Accepts a number N and calculates:
 
 ### Output
 
-![Number Analysis](Screenshots_Programming_03/Python_Screenshots/number_analysis_py.png)
+![Number Analysis](Programming_Task_03_Bhakti_Parhad/Screenshots_Programming_03/Python_Screenshots/number_analysis_py.png)
 
 ---
 
@@ -114,7 +114,7 @@ Prints different star and number patterns using nested loops.
 
 ### Output
 
-![Pattern Printing](Screenshots_Programming_03/Python_Screenshots/patterns_py.png)
+![Pattern Printing](Programming_Task_03_Bhakti_Parhad/Screenshots_Programming_03/Python_Screenshots/patterns_py.png)
 
 ---
 
@@ -132,7 +132,7 @@ Simulates a simple login system with a predefined password and maximum three log
 
 ### Output
 
-![Password Attempt Simulator](Screenshots_Programming_03/Python_Screenshots/password_attempt_py.png)
+![Password Attempt Simulator](Programming_Task_03_Bhakti_Parhad/Screenshots_Programming_03/Python_Screenshots/password_attempt_py.png)
 
 ---
 
@@ -150,7 +150,7 @@ Generates multiple username suggestions using first name, last name and birth ye
 
 ### Output
 
-![Username Generator](Screenshots_Programming_03/Python_Screenshots/username_generator_py.png)
+![Username Generator](Programming_Task_03_Bhakti_Parhad/Screenshots_Programming_03/Python_Screenshots/username_generator_py.png)
 
 ---
 
@@ -168,7 +168,7 @@ Generates a random number between 1 and 50. The user continues guessing until th
 
 ### Output
 
-![Guessing Game](Screenshots_Programming_03/Python_Screenshots/guessing_game_py.png)
+![Guessing Game](Programming_Task_03_Bhakti_Parhad/Screenshots_Programming_03/Python_Screenshots/guessing_game_py.png)
 
 ---
 
@@ -187,27 +187,27 @@ The following programs were also implemented in C Programming:
 
 #### Multiplication Table
 
-![Multiplication Table C](Screenshots_Programming_03/C_Screenshots/multiplication_table_c.png)
+![Multiplication Table C](Programming_Task_03_Bhakti_Parhad/Screenshots_Programming_03/C_Screenshots/multiplication_table_c.png)
 
 #### Number Analysis
 
-![Number Analysis C](Screenshots_Programming_03/C_Screenshots/number_analysis_c.png)
+![Number Analysis C](Programming_Task_03_Bhakti_Parhad/Screenshots_Programming_03/C_Screenshots/number_analysis_c.png)
 
 #### Pattern Printing
 
-![Pattern Printing C](Screenshots_Programming_03/C_Screenshots/patterns_c.png)
+![Pattern Printing C](Programming_Task_03_Bhakti_Parhad/Screenshots_Programming_03/C_Screenshots/patterns_c.png)
 
 #### Password Attempt Simulator
 
-![Password Attempt C](Screenshots_Programming_03/C_Screenshots/password_attempt_c.png)
+![Password Attempt C](Programming_Task_03_Bhakti_Parhad/Screenshots_Programming_03/C_Screenshots/password_attempt_c.png)
 
 #### Username Generator
 
-![Username Generator C](Screenshots_Programming_03/C_Screenshots/username_generator_c.png)
+![Username Generator C](Programming_Task_03_Bhakti_Parhad/Screenshots_Programming_03/C_Screenshots/username_generator_c.png)
 
 #### Username Generator
 
-![Guessing Game C](Screenshots_Programming_03/C_Screenshots/guessing_game_c.png)
+![Guessing Game C](Programming_Task_03_Bhakti_Parhad/Screenshots_Programming_03/C_Screenshots/guessing_game_c.png)
 
 ---
 
