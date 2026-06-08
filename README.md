@@ -24,7 +24,7 @@ This program accepts a number from the user and displays its multiplication tabl
 
 ### Output
 
-![Multiplication Table](Programming_Task_03_Bhakti_Parhad/Screenshots_Programming_03/Python_Screenshots/multiplication_table_py.png)
+![Multiplication Table](Programming_Task_03_Bhakti_Parhad/Screenshots_Programming_03/multiplication_table_py.png)
 
 ---
 
@@ -47,7 +47,7 @@ This program accepts a number N from the user and calculates:
 
 ### Output
 
-![Number Analysis](Programming_Task_03_Bhakti_Parhad/Screenshots_Programming_03/Python_Screenshots/number_analysis_py.png)
+![Number Analysis](Programming_Task_03_Bhakti_Parhad/Screenshots_Programming_03/number_analysis_py.png)
 
 ---
 
@@ -97,7 +97,7 @@ This program prints different star and number patterns using nested loops.
 
 ### Output
 
-![Pattern Printing](Programming_Task_03_Bhakti_Parhad/Screenshots_Programming_03/Python_Screenshots/patterns_py.png)
+![Pattern Printing](Programming_Task_03_Bhakti_Parhad/Screenshots_Programming_03/patterns_py.png)
 
 ---
 
@@ -115,7 +115,7 @@ This program simulates a simple login system by storing a predefined password an
 
 ### Output
 
-![Password Attempt Simulator](Programming_Task_03_Bhakti_Parhad/Screenshots_Programming_03/Python_Screenshots/password_attempt_py.png)
+![Password Attempt Simulator](Programming_Task_03_Bhakti_Parhad/Screenshots_Programming_03/password_attempt_py.png)
 
 ---
 
@@ -133,7 +133,7 @@ This program generates multiple username suggestions using the user's first name
 
 ### Output
 
-![Username Generator](Programming_Task_03_Bhakti_Parhad/Screenshots_Programming_03/Python_Screenshots/username_generator_py.png)
+![Username Generator](Programming_Task_03_Bhakti_Parhad/Screenshots_Programming_03/username_generator_py.png)
 
 ---
 
@@ -152,7 +152,7 @@ This program generates a random number between 1 and 50. The user continues gues
 
 ### Output
 
-![Guessing Game](Programming_Task_03_Bhakti_Parhad/Screenshots_Programming_03/Python_Screenshots/guessing_game_py.png)
+![Guessing Game](Programming_Task_03_Bhakti_Parhad/Screenshots_Programming_03/guessing_game_py.png)
 
 ---
 
